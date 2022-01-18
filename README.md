@@ -1,10 +1,10 @@
 <div>
 	<img style="width:100px;height:auto;"src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/otter_1f9a6.png" alt="">
-	<h1>Hey, I'm <a href="github.com/owtter">@Owtter</a>. Nice to meet you!</h1>
+	<h1>Hey, I'm <a href="https://bit.ly/3AaGMOQ">@Owtter</a>. Nice to meet you!</h1>
 </div>
 <div>
 	<h2>About me:</h2>
-	<p>~~~~~~</p>
+	<p>~~</p>
 </div>
 <div>
 	<div>
