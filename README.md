@@ -1,5 +1,5 @@
 <img style="width:100px;height:auto;" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/otter_1f9a6.png" alt="">
-Hey, I'm <a href="gitub.com/Owtter">@Owtter</a>. Nice to meet you!
+Hey, I'm <a href="github.com/owtter">@Owtter</a>. Nice to meet you!
 <br>
 <hr>
 <strong>TL:DR:</strong>
