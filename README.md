@@ -3,10 +3,6 @@
 	<h1>Hey, I'm <a href="https://bit.ly/3AaGMOQ">@Owtter</a>. Nice to meet you!</h1>
 </div>
 <div>
-	<h2>About me:</h2>
-	<p>~~</p>
-</div>
-<div>
 	<div>
 		<h2>TL:DR:</h2>
 		<strong>Interests:</strong>
@@ -25,6 +21,10 @@
 			<li>C#</li>
 			<li>Java Script</li>
 		</ul>
+	</div>
+	<div>
+		<h2>About me:</h2>
+		<p>~~</p>
 	</div>
 	<div>
 		<!--
