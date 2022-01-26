@@ -24,7 +24,7 @@
 	</div>
 	<div>
 		<h2>About me:</h2>
-		<p>~~</p>
+		<p>To be continued...</p>
 	</div>
 	<div>
 		<!--
