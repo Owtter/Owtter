@@ -3,27 +3,6 @@
 	<h1>Hey, I'm <a href="https://bit.ly/3AaGMOQ">@Owtter</a>. Nice to meet you!</h1>
 </div>
 <div>
-	<div>
-		<h2>TL:DR:</h2>
-		<strong>Interests:</strong>
-		<ul>
-			<li>Maths</li>
-			<li>Data Science</li>
-			<li>Machine Learning</li>
-			<li>Web Development</li>
-		</ul>
-		<strong>Languages:</strong>
-		<ul>
-			<li>Python</li>
-			<li>Java</li>
-			<li>HTML</li>
-			<li>CSS</li>
-		</ul>
-	</div>
-	<div>
-		<h2>About me:</h2>
-		<p>To be continued...</p>
-	</div>
 </div>
 -->
 
